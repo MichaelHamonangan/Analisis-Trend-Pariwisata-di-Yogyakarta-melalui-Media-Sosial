@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   ANALISIS TREND PARIWISATA DI YOGYAKARTA MELALUI MEDIA SOSIAL
-</h1>
+</h2>
 
 
 ## Background
