@@ -19,7 +19,7 @@ Metodologi yang digunakan dalam projek ini terdiri dari tiga tahap utama:
 ### Contributor
 
 Nama  | NIM | Program Studi
-------------- | -------------
+------------- | ------------- | -------------
 Michael Hamonangan Sitorus   | 20/460552/TK/51141 | Teknologi Informasi
 Pramudya Kusuma Hardika         | 20/460558/TK/51147 | Teknologi Informasi
 
