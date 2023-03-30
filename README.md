@@ -12,7 +12,7 @@ Dalam projek ini, akan dilakukan pengkajian terkait analisis trend pariwisata di
 ### Methodology
 
 Metodologi yang digunakan dalam projek ini terdiri dari tiga tahap utama: 
-1. **scrapping data** dari Twitter untuk mendapatkan data yang akan digunakan. Kemudian dilakukan **Data Transform** untuk emn
+1. **Scrapping data** dari Twitter untuk mendapatkan data yang akan digunakan. Kemudian dilakukan **Data Transform** untuk emn
 2. Melakukan **training model machine learning** menggunakan library transformer untuk mendapatkan nilai sentimen. 
 3. **Pengaplikasi Model dan Analisis Hasil** yang dilakukan untuk mendapatkan insight yang merupakan tujuan dari projek ini. 
 
